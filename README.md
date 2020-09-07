@@ -1,7 +1,8 @@
 # CONFidenceConf2020
 # [![CONFidence Conf 2020 header](https://github.com/ch33r10/CONFidenceConf2020/blob/master/img/CONFidenceConfBanner.png)](https://ch33r10.com)
 <p align='center'>
-<a href="https://ch33r10.com"><img height="300" src="https://github.com/ch33r10/CONFidenceConf2020/blob/master/img/CONFidenceConfBanner.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/CONFidenceConf2020/blob/master/img/twitter%20blue%20logo.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/xena-o-54491512/><img height="30" src="https://github.com/ch33r10/CONFidenceConf2020/blob/master/img/linkedin%20logo.png"></a>&nbsp;&nbsp;
 </p>
 <h3 align="center">🎉<a href="https://open.spotify.com/playlist/0wb8scWLzeVz40aRhTNc2U?si=hdZEWcOYTTGwjgCPsO6rOA">CONFidence Conf 2020 Spotify Playlist</a>🎉</h3>
 <h3 align="center">Super Charge Your <i><b>PURPLE TEAM</b></i> Exercises with Threat Intelligence 🥳</h3>
