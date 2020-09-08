@@ -47,6 +47,7 @@
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
  <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
  <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
+ <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
  <p>👾<b>MALWARE ANALYSIS</b></p>
  <ul>
