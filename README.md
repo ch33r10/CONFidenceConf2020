@@ -30,7 +30,7 @@
  <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
   
   </ul>
-<p>🔮<b>PURPLE</b></p>
+<p>🦄<b>PURPLE</b></p>
 <ul>
   <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
