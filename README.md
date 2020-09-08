@@ -9,16 +9,6 @@
 <p align="center">When it comes to Purple Teaming Exercises, threat intelligence can play a critical role in ensuring that the most relevant adversaries and threats are emulated based upon your organization’s threat landscape. This talk will walk through all the various aspects of purple teaming exercises where the incorporation of threat intelligence could be useful including the prioritization of threats to emulate, threat actor and internal attack data TTPs, detection or block suggestions for Blue Teams, indicators of emulation for Red Teams, and more. We’ll discuss strategies the various teams can use to collaborate along with metrics to help refine processes and provide value to the organization. We’ll be using the Purple Team Exercise Framework (PTEF) as a standard to map out how threat intel can super charge purple team exercises.</p>
 <hr></hr>
 <p><h3 align="center">💌<b>REFERENCES</b>💌</h3></p>
-<p>🦄<b>ATTRIBUTION</b></p>
-<ul>
- <li>Brian Bartholomew & Juan Andres Guerrero-Saade. Wave Your False Flags! Deception Tactics Muddying Attribution in Targeted Attacks - <a href="https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2017/10/20114955/Bartholomew-GuerreroSaade-VB2016.pdf">Link</a></p>
- <li>Jake Williams. Conducting a Successful False Flag Operation. BlackHat Europe 2019 - <a href="https://youtu.be/W2vBu_Jui9A">Link</a></li>
- <li>Jason D. Jolley. Attribution, State Responsibility, and the Duty to Prevent Malicious Cyber-Attacks in International Law - <a href="https://www.amazon.com/ATTRIBUTION-RESPONSIBILITY-MALICIOUS-CYBER-ATTACKS-INTERNATIONAL-ebook/dp/B07TYJYFYM/ref=sr_1_1?dchild=1&keywords=jason+jolley+attribution&qid=1599458954&sr=8-1">Link</a></li>
- <li>Katie Nickels. The Attribution Game: When Knowing Your Adversary Matters - <a href="https://redcanary.com/blog/apt-attribution-rsa/">Link</a></li>
- <li>Robert M. Lee. The Problems with Seeking and Avoiding True Attribution to Cyber Attacks - <a href="https://www.sans.org/blog/the-problems-with-seeking-and-avoiding-true-attribution-to-cyber-attacks/">Link</a></li>
- <li>Thomas Rid & Ben Buchanan. Attributing Cyber Attacks - <a href="https://ridt.co/d/rid-buchanan-attributing-cyber-attacks.pdf">Link</a></li>
- <li>Tim Maurer. Cyber Mercenaries: The State, Hackers, and Power - <a href="https://www.amazon.com/Cyber-Mercenaries-State-Hackers-Power/dp/110756686X/ref=sr_1_1?dchild=1&keywords=tim+cyber+mercenaries&qid=1599459104&sr=8-1">Link</a></li>
-</ul> 
 <p>🦾<b>TTPs</b></p>
 <ul>
   <li>Adam Pennington. Emulating an Adversary with Imperfect Intelligence. DEF CON 28 Red Team Village - <a href="https://youtu.be/cXlWY3OnjO0">Link</a></li>
@@ -37,16 +27,14 @@
 <ul>
  <li>David J. Bianco and Cat Self. SANS Threat Hunting & IR Europe Summit 2020 - <a href="https://youtu.be/HInxsRyYCK4">Link</a></li>
  <li>Joshua Stevens. Hunting for the Undefined Threat: Advanced Analytics & Visualization. RSA Conference 2015 - <a href="https://docs.huihoo.com/rsaconference/usa-2015/anf-w04-hunting-the-undefined-threat-advanced-analytics-visualization.pdf">Link</a></li>
- <li>Matt Bromiley. Thinking like a Hunter: Implementing a Threat Hunting Program. SANS Analyst Paper - <a href="https://www.sans.org/reading-room/whitepapers/analyst/thinking-hunter-implementing-threat-hunting-program-38923">Link</a></li>
- <li>Robert M. Lee and David J. Bianco. Generating Hypotheses for Successful Threat Hunting. SANS Analyst White Paper - <a href="https://www.sans.org/reading-room/whitepapers/threats/generating-hypotheses-successful-threat-hunting-37172">Link</a></li>
+ <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
   
   </ul>
 <p>🔮<b>PURPLE</b></p>
 <ul>
   <li>C2 Matrix - <a href="https://www.thec2matrix.com">Link</a></li>
   <li>Jorge Orchilles. Purple Team Exercise Framework Workshop - <a href="https://www.scythe.io/library/ptef-workshop">Link</a></li>
- <li>Roberto Rodriguez. How Hot is your Hunt Team? - <a href="https://cyberwardog.blogspot.com/2017/07/how-hot-is-your-hunt-team.html">Link</a></li>
- <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
+  <li>SCYTHE’s Purple Team Exercise Framework - <a href="https://www.scythe.io/ptef">Link</a></li>
  <li>SCYTHE's Community Threats - <a href="https://github.com/scythe-io/community-threats">Link</a></li>
  </ul>
  <p>👾<b>MALWARE ANALYSIS</b></p>
